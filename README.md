@@ -34,6 +34,16 @@ We had a fun conversation about why certaing numbers kept coming up so we wrote 
 
 Then you can run the notebook to simulate rolling the dice 100,000 times. 
 
+If we want to explain why this happens a good source is [Normal Distribution](https://kids.kiddle.co/Normal_distribution)
+
+> Many values follow a normal distribution. This is because of the central limit theorem, which says that if an event is the sum of identical but random events, it will be normally distributed. Some examples include:
+> - Height
+> - Test scores
+> - Measurement errors
+> - Light intensity (so-called Gaussian beams, as in laser light)
+> - Intelligence is probably normally distributed. There is a problem with accurately defining or measuring it, though.
+> - Insurance companies use normal distributions to model certain average cases.
+
 ### Extensions
 
-A fun exercise is to see what happens if you use 3 dice (or more). 
+A fun exercise is to see what happens if you use 3 dice (or more)?
