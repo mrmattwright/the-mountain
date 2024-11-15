@@ -4,16 +4,16 @@ When maths meets the real world.
 
 ## Setup
 
-This project uses [Rye](https://rye-up.com/) for Python dependency management.
+This project uses [Uv](https://rye-up.com/) for Python dependency management.
 
-### Install Rye
+### Install Uv
 
-First, install Rye by following the [installation instructions](https://rye-up.com/guide/installation/).
+First, install Uv by following the [installation instructions](https://docs.astral.sh/uv/getting-started/installation/).
 
 ### Install the packages
 
 ```bash
-rye sync
+uv sync
 ```
 
 ## Probability
